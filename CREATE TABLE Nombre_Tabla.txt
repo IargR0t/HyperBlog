@@ -1,0 +1,10 @@
+CREATE TABLE Nombre_Tabla
+(
+Marca varchar(20),
+Modelo varchar(20),
+Procesador varchar(30),
+CapacidadProcesador tinyint(2),
+CapacidadRam tinyint(2),
+Pantalla tinyint(2),
+Material varchar(20),
+);
